@@ -76,3 +76,15 @@ Reporters should use care in selecting data sources and choosing the algorithm t
 - Care should also be used when retrieving data from aggregators.  
 - It is the reporters responsibility to ensure that the feed result is *reasonable* enough for a community consensus, otherwise it may be subject to dispute.
 - If a *reasonable* value cannot be determined, a value should not be submitted
+
+
+## DIVA queries
+There are two ways to query the relevant pool data from DIVA:
+
+### Smart contracts
+
+
+
+### TheGraph
+
+
